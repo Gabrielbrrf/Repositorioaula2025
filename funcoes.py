@@ -4,6 +4,9 @@ def saudacao(nome):
 def p51():
     print("Palmeiras não tem mundial!")
 
-# Chamando a função
+def p53():
+    print("Palmeiras ")
+
 saudacao("Maria")
 p51()
+p53()
