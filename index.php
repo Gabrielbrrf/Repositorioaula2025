@@ -8,4 +8,8 @@ if(isset($_POST['number'])){
     $number = $_POST['number'];
 }
 
+if(isset($_POST['email'])){
+    $email = $_POST['email'];
+}
+
 ?>
