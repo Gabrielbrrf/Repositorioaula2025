@@ -10,5 +10,12 @@ def p53():
 def p54():
     print("Capimvara")
 saudacao("Maria")
-p51()
-p53()
+
+def p54():
+    print("fatec@fatec.sp.gov.br")
+
+def p56():
+    print("Bom dia galeraa")
+
+def p57():
+    print("E o café??")
