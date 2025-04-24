@@ -5,7 +5,7 @@ def p51():
     print("Palmeiras não tem mundial!")
 
 def p53():
-    print("Palmeiras ")
+    print("Palmeiras não tem mundial!")
 
 def p54():
     print("Capimvara")
